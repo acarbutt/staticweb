@@ -1,0 +1,4 @@
+baseURL = 'https://jolly-bush-00dc48803.3.azurestaticapps.net/'
+languageCode = 'en-gb'
+title = 'Blog'
+theme = 'ananke'
